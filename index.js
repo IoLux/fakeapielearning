@@ -1,10 +1,11 @@
 const express = require("express");
 const app = express();
-const port = 5000;
+const data = require("./json/postUser.json");
+// const port = 5000;
 
 // define the first route
 app.get("/", function (req, res) {
-  res.send("HELLo");
+  res.json(data);
 });
 
 app.listen(process.env.PORT || 3000, () => {
