@@ -4,7 +4,7 @@ const data = require("./json/postUser.json");
 // const port = 5000;
 
 // define the first route
-app.get("/", function (req, res) {
+app.get("/postUser", function (req, res) {
   res.json(data);
 });
 
