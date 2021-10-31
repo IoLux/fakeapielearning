@@ -14,6 +14,14 @@
         "avatar": "https://randomuser.me/api/portraits/men/40.jpg",
         "email": "Ronaldo.Effertz.Deckow@hotmail.com",
         "bio": "Web & Mobile UI/UX designer, Motion designer following the latest ui & ux trends"
+      },
+      "pricing": {
+        "free": {
+          "title": "Free",
+          "price": 0,
+          "user": 1,
+          "description": "FREE"
+        }
       }
     },
     {

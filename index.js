@@ -2,7 +2,6 @@ const express = require("express");
 const app = express();
 const postUser = require("./json/postUser.json");
 const users = require("./json/user.json");
-// const port = 5000;
 
 // define the first route
 app.get("/postUser", function (req, res) {
