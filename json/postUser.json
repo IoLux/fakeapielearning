@@ -44,7 +44,21 @@
         "avatar": "https://robohash.org/auteumvelit.png?size=300x300&set=set1",
         "email": "Markus.Price68.Dicki@yahoo.com",
         "bio": "Web & Mobile UI/UX designer, Motion designer following the latest ui & ux trends"
-      }
+      },
+      "pricing": [
+        {
+          "title": "Free",
+          "price": 0,
+          "user": 1,
+          "description": "FREE"
+        },
+        {
+          "title": "Premium",
+          "price": 10,
+          "user": 1,
+          "description": "Get a Bnag for your bucks"
+        }
+      ]
     },
     {
       "id": 3,
@@ -60,7 +74,21 @@
         "avatar": "https://robohash.org/itaqueenimsequi.png?size=300x300&set=set1",
         "email": "Magali1664@gmail.com",
         "bio": "Web & Mobile UI/UX designer, Motion designer following the latest ui & ux trends"
-      }
+      },
+      "pricing": [
+        {
+          "title": "Free",
+          "price": 0,
+          "user": 1,
+          "description": "FREE"
+        },
+        {
+          "title": "Premium",
+          "price": 10,
+          "user": 1,
+          "description": "Get a Bnag for your bucks"
+        }
+      ]
     }
   ]
 }
